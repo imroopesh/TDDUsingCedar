@@ -1,0 +1,21 @@
+{
+    "d":
+        [
+         {
+         "uri": "com.roop.com::useruri:user:1",
+         "name": "Roopesh M"
+         },
+         {
+         "uri": "com.roop.com::useruri:user:2",
+         "name": "Nishant S"
+         },
+         {
+         "uri": "com.roop.com::useruri:user:3",
+         "name": "Harsha L"
+         },
+         {
+         "uri": "com.roop.com::useruri:user:4",
+         "name": "Kishore G"
+         }
+         ]
+}

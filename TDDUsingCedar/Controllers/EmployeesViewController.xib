@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="8191" systemVersion="15A284" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="8154"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="EmployeesViewController">
+            <connections>
+                <outlet property="tableView" destination="wEi-ag-RnS" id="lgA-Op-bLd"/>
+                <outlet property="view" destination="iN0-l3-epB" id="FRS-rP-RBs"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="wEi-ag-RnS">
+                    <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                    <animations/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                </tableView>
+            </subviews>
+            <animations/>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="wEi-ag-RnS" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="0ub-8q-Mpl"/>
+                <constraint firstAttribute="trailing" secondItem="wEi-ag-RnS" secondAttribute="trailing" id="Gg4-I6-Dcj"/>
+                <constraint firstAttribute="bottom" secondItem="wEi-ag-RnS" secondAttribute="bottom" id="qbD-vu-lU2"/>
+                <constraint firstItem="wEi-ag-RnS" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="sDN-hW-o7c"/>
+            </constraints>
+            <point key="canvasLocation" x="408" y="368"/>
+        </view>
+    </objects>
+</document>
