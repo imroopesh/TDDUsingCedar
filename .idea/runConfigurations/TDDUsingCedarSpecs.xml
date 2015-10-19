@@ -1,9 +1,0 @@
-<component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="TDDUsingCedarSpecs" type="AppleRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="TDDUsingCedar" TARGET_NAME="BestPracticesSpecs" CONFIG_NAME="Debug" SCHEME_NAME="TDDUsingCedarSpecs" RUN_TARGET_PROJECT_NAME="TDDUsingCedar" RUN_TARGET_NAME="BestPracticesSpecs" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
-    <envs />
-    <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
-      <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
-    </EXTENSION>
-    <method />
-  </configuration>
-</component>
